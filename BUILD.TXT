@@ -1,0 +1,42 @@
+
+wsCaller 1.0
+(C) 2003 Wang Yong Gang
+
+---------------------------------------------------------------
+wsCaller是使用Java语言编写的Web Service通用客户端和测试工具。
+wsCaller及其所有源代码的授权方式如下：
+
+允许任何个人、学术机构、公司无偿获得、修改、使用、重新发布
+wsCaller软件及其源代码，并可以按照有偿或者无偿的方式发行基
+于wsCaller源代码的全部或部分内容开发的软件产品，——但行使
+以上权利时，须遵守以下约定：
+
+1、重新发布wsCaller软件及其源代码时，不得隐去软件以及源代码
+中原有的版权信息和开发者标识。
+
+2、发行基于wsCaller源代码的全部或部分内容开发的软件产品时，
+必须在产品的显著位置标明以下字样：
+
+“本产品的一部分功能是基于王咏刚在wsCaller软件中的工作完成的”
+
+3、在正式出版物中引用wsCaller的文档、源代码或注释内容的，应
+注明软件的原作者为王咏刚。
+---------------------------------------------------------------
+
+编译wsCaller软件的源代码需要：
+
+	* JDK 1.3.1或更高版本，建议使用JDK 1.4.1或更高版本。
+	  JDK可从http://java.sun.com/处获取。
+	  
+	* Axis 1.1或更高版本。
+	  Axis可从http://ws.apache.org/axis/处获取。
+	  
+	* Xerces2 Java Parser 2.4.0或更高版本（使用JDK 1.4或以上版本时可不需要Xerces）。
+	  Xerces可从http://xml.apache.org/xerces2-j/处获取。
+
+wsCaller软件是基于Axis库（Apache eXtensible Interaction System）开发的，Axis库的介绍及其版权信息请参见Apache Software Foundation的网站http://www.apache.org/。
+
+有关wsCaller软件的更多信息请见王咏刚的个人主页http://www.contextfree.net/。
+
+王咏刚
+2003.06
